@@ -17,8 +17,8 @@
 ---
 
 ##  Product Backlog  
-**Trello Linki:** (https://trello.com/invite/b/686aa3dac6e22cf832743930/ATTId1e52580a7272cc9402f92d3b169d63cC1A1C7EF/1-sprint-board)
-![Screenshot 2025-07-06 at 23 20 18](https://github.com/user-attachments/assets/9c50f511-6e63-4c58-841a-93911af2e80c)
+**Trello Linki:** [Motiveo Backlog](https://trello.com/invite/b/686aa3dac6e22cf832743930/ATTId1e52580a7272cc9402f92d3b169d63cC1A1C7EF/1-sprint-board)  
+<img src="https://github.com/user-attachments/assets/9c50f511-6e63-4c58-841a-93911af2e80c" width="600">
 
 ---
 
@@ -43,21 +43,21 @@
 - Kişiye özel spor programı
 - Uyku takibi ve ekran/bildirim düzenleme ile uykuya yardımcı mod
 
-### Kariyer Modülü
+###  Kariyer Modülü
 - Spesifik rota planlaması
 - Görev tamamlama ve geri bildirim sistemi
 
-### Eğitim Modülü
+###  Eğitim Modülü
 - Çalışma süresi bazlı planlama
 - Konu hedef takibi
 
-### Hobi Takibi
+###  Hobi Takibi
 - Belirlenen hedeflere özel görev oluşturma
 - Takip ve puanlama sistemi
 
 ---
 
-## Hedef Kitle
+## 🎯 Hedef Kitle
 
 - Kişisel gelişimini yönetmek isteyen bireyler
 - Öğrenciler ve genç profesyoneller
@@ -66,68 +66,67 @@
 
 ---
 
-# Sprint 1
+# 🧭 Sprint 1
 
-## Sprint Notları
+## 📝 Sprint Notları
 
 İlk sprint süresince projenin temel fikri oluşturulmuş, kullanıcı analizi yapılmış ve ana uygulama modülleri belirlenmiştir.  
 Kategori bazlı yapay zeka agent yapısı, görev atama sistematiği ve kullanıcı akışı planlanmış; Trello üzerinde görev yönetimi kurulmuştur.
 
-Sprintte tamamlanan işler:
-
-- Ürün ismi ve hedefinin netleştirilmesi
-- Ekip rolleri ve sorumlulukları
-- Kullanıcı persona ve hedef kitle analizi
-- Ana kategorilerin (sağlık, kariyer, eğitim, hobiler) fonksiyonlarının planlanması
-- Moodboard ve UI/UX araçları (Figma, Whimsical) belirlenmesi
-- Sprint sistemi ve görev takibi için Trello kurulumu
-- Temel UI planlarının oluşturulması
+**Sprintte tamamlanan işler:**
+- Ürün ismi ve hedefinin netleştirilmesi  
+- Ekip rolleri ve sorumlulukları  
+- Kullanıcı persona ve hedef kitle analizi  
+- Ana kategorilerin (sağlık, kariyer, eğitim, hobiler) fonksiyonlarının planlanması  
+- Moodboard ve UI/UX araçları (Figma, Whimsical) belirlenmesi  
+- Sprint sistemi ve görev takibi için Trello kurulumu  
+- Temel UI planlarının oluşturulması  
 
 ---
 
-## Sprint içinde tamamlanması tahmin edilen puan
+## 🎯 Sprint içinde tamamlanması tahmin edilen puan
 
 - **Sprint Hedefi:** 101 Puan  
-- **Gerçekleşen:** 101 Puan 
+- **Gerçekleşen:** 101 Puan  
+
 ---
 
-## Puan Tamamlama Mantığı
+## 📊 Puan Tamamlama Mantığı
 
 Sprint görevleri **Fibonacci dizisi (1-2-3-5-8-13-21)** kullanılarak puanlandırılmıştır.  
 Her görevin zorluğu, belirsizlik düzeyi ve tahmini süresi ekip içinde değerlendirilerek puanlar atanmıştır.
 
 ---
 
-## Daily Scrum
+## 📅 Daily Scrum
 
 Daily Scrum toplantıları WhatsApp grubunda yazılı olarak gerçekleştirilmiştir.  
 Haftada 1 gün detaylı değerlendirme toplantısı Zoom üzerinden yapılmıştır.
-![WhatsApp Image 2025-07-06 at 23 22 03](https://github.com/user-attachments/assets/29df8b7f-6a54-4257-a897-dadd4488c0af)
-![WhatsApp Image 2025-07-06 at 23 22 03 (1)](https://github.com/user-attachments/assets/7d61b586-d197-4acc-b0e7-b56c894108e0)
-![WhatsApp Image 2025-07-06 at 23 22 01](https://github.com/user-attachments/assets/2d004bef-ebaf-4215-b79f-519bd7593bf1)
 
-
----
-
-## Sprint Board Screenshotları
-![Screenshot 2025-07-06 at 23 20 18](https://github.com/user-attachments/assets/173cadbb-821c-401d-a9f3-179a0d51558f)
-
+<img src="https://github.com/user-attachments/assets/29df8b7f-6a54-4257-a897-dadd4488c0af" width="400">
+<img src="https://github.com/user-attachments/assets/7d61b586-d197-4acc-b0e7-b56c894108e0" width="400">
+<img src="https://github.com/user-attachments/assets/2d004bef-ebaf-4215-b79f-519bd7593bf1" width="400">
 
 ---
 
-## Ürün Durumu: Ekran Görüntüleri
-![Screenshot 2025-07-06 at 23 23 55](https://github.com/user-attachments/assets/d3dec3e8-13f0-42ea-aa17-5db29b450c7b)
-![Screenshot 2025-07-06 at 23 24 02](https://github.com/user-attachments/assets/26ebd98e-58f3-42ab-9ecc-7b81958a91d1)
-![Screenshot 2025-07-06 at 23 24 10](https://github.com/user-attachments/assets/7271b778-521a-4dc1-8655-1a12bc649110)
-![Screenshot 2025-07-06 at 23 24 15](https://github.com/user-attachments/assets/fb44d66d-900a-46b1-b707-28c3ff69c934)
-![Screenshot 2025-07-06 at 23 24 21](https://github.com/user-attachments/assets/6bfd0d4b-5c09-4316-9eb4-035c2437e5d9)
-![Screenshot 2025-07-06 at 23 24 28](https://github.com/user-attachments/assets/d4e9cb02-9aaf-408f-b323-db2c3a729288)
+## 🗂 Sprint Board Screenshotları
 
-
+<img src="https://github.com/user-attachments/assets/173cadbb-821c-401d-a9f3-179a0d51558f" width="600">
 
 ---
 
-## Sprint Review
+## 📱 Ürün Durumu: Ekran Görüntüleri
+
+<img src="https://github.com/user-attachments/assets/d3dec3e8-13f0-42ea-aa17-5db29b450c7b" width="300">
+<img src="https://github.com/user-attachments/assets/26ebd98e-58f3-42ab-9ecc-7b81958a91d1" width="300">
+<img src="https://github.com/user-attachments/assets/7271b778-521a-4dc1-8655-1a12bc649110" width="300">
+<img src="https://github.com/user-attachments/assets/fb44d66d-900a-46b1-b707-28c3ff69c934" width="300">
+<img src="https://github.com/user-attachments/assets/6bfd0d4b-5c09-4316-9eb4-035c2437e5d9" width="300">
+<img src="https://github.com/user-attachments/assets/d4e9cb02-9aaf-408f-b323-db2c3a729288" width="300">
+
+---
+
+## 🔍 Sprint Review
 
 Sprint boyunca ürünün vizyonu netleştirilmiş, temel sistem yapısı planlanmış ve UI/UX araçları seçilmiştir.  
 Agent sistemi ve kategori bazlı görev yapısı detaylandırılmış; kullanıcıya sunulacak akış ve deneyim temeli oluşturulmuştur.  
@@ -137,17 +136,15 @@ Trello üzerinde 101 puanlık görev başarıyla tamamlanmıştır.
 
 ## 🔁 Sprint Retrospective
 
-### Güçlü Yönler:
-- Ekip içi iletişim çok verimliydi
-- Fikir üretimi ve rol dağılımı etkili yapıldı
+### ✅ Güçlü Yönler:
+- Ekip içi iletişim çok verimliydi  
+- Fikir üretimi ve rol dağılımı etkili yapıldı  
 
-### Zorluklar:
-- UI tasarım kararlarında gecikme yaşandı
-- Moodboard ve renk seçim süreci tahmin edilenden uzun sürdü
+### 🚧 Zorluklar:
+- UI tasarım kararlarında gecikme yaşandı  
+- Moodboard ve renk seçim süreci tahmin edilenden uzun sürdü  
 
-### Gelişim Alanları:
-- Sprint 2'de daha somut prototip ekranlara odaklanılacak
-- AI agent karakter detayları derinleştirilecek
-- Görev tamamlama ve bildirim sistemi prototip olarak geliştirilecek
-
----
+### 📈 Gelişim Alanları:
+- Sprint 2'de daha somut prototip ekranlara odaklanılacak  
+- AI agent karakter detayları derinleştirilecek  
+- Görev tamamlama ve bildirim sistemi prototip olarak geliştirilecek  
