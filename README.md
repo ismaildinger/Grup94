@@ -57,7 +57,7 @@
 
 ---
 
-## 🎯 Hedef Kitle
+## Hedef Kitle
 
 - Kişisel gelişimini yönetmek isteyen bireyler
 - Öğrenciler ve genç profesyoneller
@@ -66,9 +66,9 @@
 
 ---
 
-# 🧭 Sprint 1
+# Sprint 1
 
-## 📝 Sprint Notları
+## Sprint Notları
 
 İlk sprint süresince projenin temel fikri oluşturulmuş, kullanıcı analizi yapılmış ve ana uygulama modülleri belirlenmiştir.  
 Kategori bazlı yapay zeka agent yapısı, görev atama sistematiği ve kullanıcı akışı planlanmış; Trello üzerinde görev yönetimi kurulmuştur.
@@ -84,21 +84,21 @@ Kategori bazlı yapay zeka agent yapısı, görev atama sistematiği ve kullanı
 
 ---
 
-## 🎯 Sprint içinde tamamlanması tahmin edilen puan
+## Sprint içinde tamamlanması tahmin edilen puan
 
 - **Sprint Hedefi:** 101 Puan  
 - **Gerçekleşen:** 101 Puan  
 
 ---
 
-## 📊 Puan Tamamlama Mantığı
+## Puan Tamamlama Mantığı
 
 Sprint görevleri **Fibonacci dizisi (1-2-3-5-8-13-21)** kullanılarak puanlandırılmıştır.  
 Her görevin zorluğu, belirsizlik düzeyi ve tahmini süresi ekip içinde değerlendirilerek puanlar atanmıştır.
 
 ---
 
-## 📅 Daily Scrum
+## Daily Scrum
 
 Daily Scrum toplantıları WhatsApp grubunda yazılı olarak gerçekleştirilmiştir.  
 Haftada 1 gün detaylı değerlendirme toplantısı Zoom üzerinden yapılmıştır.
@@ -109,13 +109,13 @@ Haftada 1 gün detaylı değerlendirme toplantısı Zoom üzerinden yapılmışt
 
 ---
 
-## 🗂 Sprint Board Screenshotları
+## Sprint Board Screenshotları
 
 <img src="https://github.com/user-attachments/assets/173cadbb-821c-401d-a9f3-179a0d51558f" width="600">
 
 ---
 
-## 📱 Ürün Durumu: Ekran Görüntüleri
+## Ürün Durumu: Ekran Görüntüleri
 
 <img src="https://github.com/user-attachments/assets/d3dec3e8-13f0-42ea-aa17-5db29b450c7b" width="300">
 <img src="https://github.com/user-attachments/assets/26ebd98e-58f3-42ab-9ecc-7b81958a91d1" width="300">
@@ -126,7 +126,7 @@ Haftada 1 gün detaylı değerlendirme toplantısı Zoom üzerinden yapılmışt
 
 ---
 
-## 🔍 Sprint Review
+## Sprint Review
 
 Sprint boyunca ürünün vizyonu netleştirilmiş, temel sistem yapısı planlanmış ve UI/UX araçları seçilmiştir.  
 Agent sistemi ve kategori bazlı görev yapısı detaylandırılmış; kullanıcıya sunulacak akış ve deneyim temeli oluşturulmuştur.  
@@ -134,17 +134,17 @@ Trello üzerinde 101 puanlık görev başarıyla tamamlanmıştır.
 
 ---
 
-## 🔁 Sprint Retrospective
+## Sprint Retrospective
 
-### ✅ Güçlü Yönler:
+### Güçlü Yönler:
 - Ekip içi iletişim çok verimliydi  
 - Fikir üretimi ve rol dağılımı etkili yapıldı  
 
-### 🚧 Zorluklar:
+### Zorluklar:
 - UI tasarım kararlarında gecikme yaşandı  
 - Moodboard ve renk seçim süreci tahmin edilenden uzun sürdü  
 
-### 📈 Gelişim Alanları:
+### Gelişim Alanları:
 - Sprint 2'de daha somut prototip ekranlara odaklanılacak  
 - AI agent karakter detayları derinleştirilecek  
 - Görev tamamlama ve bildirim sistemi prototip olarak geliştirilecek  
