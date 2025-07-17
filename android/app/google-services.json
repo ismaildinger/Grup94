@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710259590061",
+    "project_id": "motiveo-926cc",
+    "storage_bucket": "motiveo-926cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710259590061:android:87ce7ffaf3bb4555435724",
+        "android_client_info": {
+          "package_name": "com.example.motiveo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710259590061-caimv93dr6dirt5k0a773q8i7spp2pj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9AGBq1sEhHZxEZmDAmddDxifGAXYkoOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710259590061-caimv93dr6dirt5k0a773q8i7spp2pj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
