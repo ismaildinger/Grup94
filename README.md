@@ -184,19 +184,25 @@ Tüm görevler **Fibonacci dizisine** göre puanlanmış ve puanlama süreci gö
 ## Daily Scrum
 
 Daily Scrum toplantıları haftalık olarak Zoom üzerinden sesli gerçekleştirilmiş; ara günlerde ise gelişmeler ve sorular ekip WhatsApp grubundan takip edilmiştir.  
-Kodlama sürecinde yapılan ilerlemeler bireysel olarak paylaşılıp, Trello güncellemeleri ile senkronizasyon sağlanmıştır.
+<img width="1176" height="1390" alt="Screenshot 2025-07-20 at 23 06 43" src="https://github.com/user-attachments/assets/eadae4ab-e42d-4e8a-bb79-1b62a33fb536" />
+<img width="1154" height="1422" alt="Screenshot 2025-07-20 at 23 07 36" src="https://github.com/user-attachments/assets/7f23a94a-5914-4a65-b07e-70af0028bbba" />
+
 
 ---
 
 ## Sprint Board Screenshotları
+<img width="3348" height="2100" alt="Screenshot 2025-07-20 at 23 02 10" src="https://github.com/user-attachments/assets/8a1d851b-e3a0-48f3-a63c-ae2e80a64b9d" />
 
-> (Trello veya ekran görüntüsü buraya eklenecek)
+
 
 ---
 
 ## Ürün Durumu: Ekran Görüntüleri
+<img width="740" height="1626" alt="Screenshot 2025-07-20 at 23 03 09" src="https://github.com/user-attachments/assets/0289a97b-a4d2-4262-b17c-adfc969515fe" />
+<img width="732" height="1626" alt="Screenshot 2025-07-20 at 23 03 17" src="https://github.com/user-attachments/assets/27baa680-a1f6-4916-9991-6d6d28d696b2" />
+<img width="748" height="1658" alt="Screenshot 2025-07-20 at 23 02 28" src="https://github.com/user-attachments/assets/3a224fa3-56c8-4bfd-8b6a-7b52ad30a858" />
+<img width="742" height="1626" alt="Screenshot 2025-07-20 at 23 02 47" src="https://github.com/user-attachments/assets/4a441032-fed7-45b5-95d5-b63303543530" />
 
-> (Kodlanan ekranların güncel halini yansıtan görseller buraya eklenecek)
 
 ---
 
