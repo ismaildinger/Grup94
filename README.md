@@ -147,4 +147,80 @@ Trello üzerinde 101 puanlık görev başarıyla tamamlanmıştır.
 ### Gelişim Alanları:
 - Sprint 2'de daha somut prototip ekranlara odaklanılacak  
 - AI agent karakter detayları derinleştirilecek  
-- Görev tamamlama ve bildirim sistemi prototip olarak geliştirilecek  
+- Görev tamamlama ve bildirim sistemi prototip olarak geliştirilecek
+
+
+# Sprint 2
+
+## Sprint Notları
+
+İkinci sprint süresince proje yazılımına aktif olarak geçilmiş ve uygulamanın temel ekranları kodlanmaya başlanmıştır. Flutter projesi başlatılmış, UI/UX geliştirme adımları tamamlanmış ve giriş ile ana sayfa ekranları işlevsel olarak tasarlanmıştır. Kategori bazlı ajan ekranlarının kodlaması yapılmış, backend bağlantısı için Firebase entegrasyonu ve yapay zeka (API/model) yapısının temelleri atılmıştır. Ek olarak, kullanıcı görevlerini puanlayacak sistemin kodlamasına geçilmiştir.
+
+Sprintte tamamlanan ana işler:
+
+- Flutter projesinin oluşturulması ve temel yapıların kurulması  
+- UI/UX bileşenlerinin oluşturulması ve moodboarda uygun ekran tasarımı  
+- Giriş ekranı ve ana ekranın tasarlanması ve kodlanması  
+- 4 farklı AI ajanı sekmesinin (sağlık, kariyer, eğitim, hobi) ekranlarının oluşturulması  
+- Firebase tabanlı backend entegrasyonunun başlatılması  
+- Yapay zeka agent API modeli için temel entegrasyonların yapılması  
+- Kullanıcı görev puanlama sisteminin kodlaması
+
+---
+
+## Sprint içinde tamamlanması tahmin edilen puan
+
+- **Sprint Hedefi:** 85 Puan  
+- **Gerçekleşen:** 77 Puan
+
+---
+
+## Puan Tamamlama Mantığı
+
+Tüm görevler **Fibonacci dizisine** göre puanlanmış ve puanlama süreci görev zorluğu, süre tahmini ve teknik belirsizliklere göre ekip içinde değerlendirilerek yapılmıştır.
+
+---
+
+## Daily Scrum
+
+Daily Scrum toplantıları haftalık olarak Zoom üzerinden sesli gerçekleştirilmiş; ara günlerde ise gelişmeler ve sorular ekip WhatsApp grubundan takip edilmiştir.  
+Kodlama sürecinde yapılan ilerlemeler bireysel olarak paylaşılıp, Trello güncellemeleri ile senkronizasyon sağlanmıştır.
+
+---
+
+## Sprint Board Screenshotları
+
+> (Trello veya ekran görüntüsü buraya eklenecek)
+
+---
+
+## Ürün Durumu: Ekran Görüntüleri
+
+> (Kodlanan ekranların güncel halini yansıtan görseller buraya eklenecek)
+
+---
+
+## Sprint Review
+
+Sprint 2 süresince uygulamanın teknik altyapısı ve arayüzleri kodlanmaya başlanmıştır. Flutter ile uygulama geliştirilmeye başlanmış, giriş ve ana ekranlar bitirilmiştir.  
+Kategori bazlı 4 ajan sekmesinin arayüzü oluşturulmuş; backend tarafında Firebase bağlantıları yapılmış, kullanıcıların ilerlemesini analiz edecek puanlama sistemi için temel atılmıştır.  
+Ayrıca, AI API bağlantısı kurulmuş ve yapay zekaların görev üretme sistemine entegre edilmesi hedeflenmiştir.
+
+---
+
+## Sprint Retrospective
+
+### Güçlü Yönler:
+- Kodlama aşamasına hızlı geçilmesi
+- Görev dağılımının etkili olması
+- Flutter altyapısına hakimiyet
+
+### Zorluklar:
+- Firebase bağlantılarında küçük senkronizasyon sorunları
+- UI tasarımı ile kod uyumunun sağlanması zaman aldı
+
+### Gelişim Alanları:
+- Sprint 3’te kullanıcı test ekranları geliştirilecek
+- AI agent sisteminde diyalog örüntüleri genişletilecek
+- Görev öneri algoritmaları test edilmeye başlanacak
+
