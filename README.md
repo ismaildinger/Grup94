@@ -100,29 +100,25 @@ Her görevin zorluğu, belirsizlik düzeyi ve tahmini süresi ekip içinde değe
 
 ## Daily Scrum
 
-Daily Scrum toplantıları WhatsApp grubunda yazılı olarak gerçekleştirilmiştir.  
-Haftada 1 gün detaylı değerlendirme toplantısı Zoom üzerinden yapılmıştır.
+Daily Scrum toplantıları haftalık olarak Zoom üzerinden sesli gerçekleştirilmiş; ara günlerde ise gelişmeler ve sorular ekip WhatsApp grubundan takip edilmiştir.
 
-<img src="https://github.com/user-attachments/assets/29df8b7f-6a54-4257-a897-dadd4488c0af" width="400">
-<img src="https://github.com/user-attachments/assets/7d61b586-d197-4acc-b0e7-b56c894108e0" width="400">
-<img src="https://github.com/user-attachments/assets/2d004bef-ebaf-4215-b79f-519bd7593bf1" width="400">
+<img src="https://github.com/user-attachments/assets/eadae4ab-e42d-4e8a-bb79-1b62a33fb536" width="400">
+<img src="https://github.com/user-attachments/assets/7f23a94a-5914-4a65-b07e-70af0028bbba" width="400">
 
 ---
 
 ## Sprint Board Screenshotları
 
-<img src="https://github.com/user-attachments/assets/173cadbb-821c-401d-a9f3-179a0d51558f" width="600">
+<img src="https://github.com/user-attachments/assets/8a1d851b-e3a0-48f3-a63c-ae2e80a64b9d" width="600">
 
 ---
 
 ## Ürün Durumu: Ekran Görüntüleri
 
-<img src="https://github.com/user-attachments/assets/d3dec3e8-13f0-42ea-aa17-5db29b450c7b" width="300">
-<img src="https://github.com/user-attachments/assets/26ebd98e-58f3-42ab-9ecc-7b81958a91d1" width="300">
-<img src="https://github.com/user-attachments/assets/7271b778-521a-4dc1-8655-1a12bc649110" width="300">
-<img src="https://github.com/user-attachments/assets/fb44d66d-900a-46b1-b707-28c3ff69c934" width="300">
-<img src="https://github.com/user-attachments/assets/6bfd0d4b-5c09-4316-9eb4-035c2437e5d9" width="300">
-<img src="https://github.com/user-attachments/assets/d4e9cb02-9aaf-408f-b323-db2c3a729288" width="300">
+<img src="https://github.com/user-attachments/assets/0289a97b-a4d2-4262-b17c-adfc969515fe" width="300">
+<img src="https://github.com/user-attachments/assets/27baa680-a1f6-4916-9991-6d6d28d696b2" width="300">
+<img src="https://github.com/user-attachments/assets/3a224fa3-56c8-4bfd-8b6a-7b52ad30a858" width="300">
+<img src="https://github.com/user-attachments/assets/4a441032-fed7-45b5-95d5-b63303543530" width="300">
 
 ---
 
