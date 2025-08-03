@@ -264,22 +264,21 @@ Tamamlanan görevler:
 Görevler **Fibonacci dizisine** (1, 2, 3, 5, 8, 13, 21) göre puanlanmıştır.  
 Küçük düzenlemeler düşük puan alırken, API ve Firebase düzenlemeleri daha yüksek puan olarak değerlendirilmiştir.
 
-
 ---
 
 ## Daily Scrum
 
 Daily Scrum toplantıları bu sprintte haftada bir kez Zoom üzerinden yapılmış,  
 ara günlerde ise ilerleme ve görev durumları ekip WhatsApp grubunda paylaşılmıştır.
-![WhatsApp Image 2025-08-03 at 23 24 48](https://github.com/user-attachments/assets/ab39875b-a8ce-48bc-b306-8fb106272a81)
-![WhatsApp Image 2025-08-03 at 23 24 48 (1)](https://github.com/user-attachments/assets/b5b38b76-a5ba-40a3-bfec-30f8357b9962)
+
+<img src="https://github.com/user-attachments/assets/ab39875b-a8ce-48bc-b306-8fb106272a81" width="400">
+<img src="https://github.com/user-attachments/assets/b5b38b76-a5ba-40a3-bfec-30f8357b9962" width="400">
 
 ---
 
 ## Sprint Board Screenshotları
-<img width="3360" height="1728" alt="Screenshot 2025-08-03 at 23 14 44" src="https://github.com/user-attachments/assets/c8a1c756-7e14-4f10-80e4-4cf21c83bbdb" />
 
-
+<img src="https://github.com/user-attachments/assets/c8a1c756-7e14-4f10-80e4-4cf21c83bbdb" width="600">
 
 ---
 
@@ -313,4 +312,3 @@ Bu düzenlemeler, uygulamanın daha stabil ve kullanışlı hale gelmesini sağl
 - Sprint 4’te (varsa) yeni özelliklerin geliştirilmesine ağırlık verilmesi  
 - AI agent sisteminde görev üretme algoritmasının genişletilmesi  
 - Kullanıcı deneyimi testlerinin yapılması
-
